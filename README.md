@@ -1,5 +1,7 @@
 Trivia-Master
 
+Technologies: MongoDB, Express.js, React.js, Node.js (MERN Stack)
+
 1. Overview:
 The quiz application is a web-based platform that allows users to participate in quizzes, test their knowledge, and compete with other users. 
 
@@ -16,7 +18,6 @@ The quiz application will follow a client-server architecture.
 3. User Management:
 The application will provide user registration and login functionality to allow users to create accounts and authenticate themselves. 
    
-
 4. Quiz Management:
 The quiz application will allow authorized users to manage quizzes.
    
@@ -26,7 +27,8 @@ Registered users can browse and participate in available quizzes. The following 
    - Scoring and Result Generation: The application will calculate scores based on the user's answers and generate results once the quiz is completed.
 
 6. Leaderboard:
-The quiz application will maintain a leaderboard that displays the scores achieved by users in various quizzes. It will motivate users to compete and achieve good score.
+The quiz application will maintain a leaderboard that displays the scores achieved by users in quizzes. It will motivate users to compete and achieve good score.
 
 7. Scalability and Performance:
-To handle a large number of users and quizzes, the quiz application should be designed for scalability and optimized for performance. Techniques such as load balancing, caching, and database optimization can be employed to achieve scalability and responsiveness.
+To handle a large number of users and quizzes, the quiz application designed for scalability and optimized for performance. Techniques such as load balancing,
+database optimization can be employed to achieve scalability and responsiveness.
