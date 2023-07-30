@@ -29,6 +29,6 @@ Registered users can browse and participate in available quizzes. The following 
 ### 6. Leaderboard:
 The quiz application will maintain a leaderboard that displays the scores achieved by users in quizzes. It will motivate users to compete and achieve good score.
 
-7. Scalability and Performance:
+### 7. Scalability and Performance:
 To handle a large number of users and quizzes, the quiz application designed for scalability and optimized for performance. Techniques such as load balancing,
 database optimization can be employed to achieve scalability and responsiveness.
